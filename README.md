@@ -100,19 +100,6 @@ Structured log parsing into operational metrics and error-rate analysis, with de
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=najaraasif&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaraasif&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najaraasif&hide_border=true&theme=tokyonight" alt="GitHub streak">
-</p>
-
----
-
 ## What I'm Working On
 
 Deepening my Python, data engineering, and backend skills through hands-on projects — data processing, validation, API design, numerical computing, anomaly detection, and automated testing. Every project ships with a test suite and CI, because reliable software is the point.
