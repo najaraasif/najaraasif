@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aasif 👋</h1>
+<h1 align="center">Mohammad Aasif Najar</h1>
 
 <p align="center">
   <b>Python Developer · Data Engineering · Backend & Full Stack</b><br>
@@ -15,14 +15,15 @@
 
 ---
 
-## About Me
+## About
 
-- 🐍 **Python & backend engineering** — REST APIs, services, and CLI tooling
-- 📊 **Data work** — ETL, validation, quality checks, and analytics with Pandas & NumPy
-- 🧪 **Testing-first** — pytest, property-based testing with Hypothesis, CI on every push
-- ⚛️ **Full stack** — JavaScript, TypeScript, React, and Next.js
-- 🤖 **AI evaluation** — designing and grading benchmark tasks for frontier model evaluation
-- 🚀 Focused on software that is **practical, reliable, and verifiable**
+- **Backend engineering** — REST APIs, services, and CLI tooling in Python
+- **Data engineering** — ETL, validation, quality checks, and analytics with Pandas and NumPy
+- **Testing and verification** — pytest, property-based testing with Hypothesis, CI on every push
+- **Full stack** — JavaScript, TypeScript, React, and Next.js
+- **AI evaluation** — designing and grading benchmark tasks for frontier model evaluation
+
+Focused on software that is practical, reliable, and verifiable.
 
 ---
 
@@ -100,20 +101,16 @@ Structured log parsing into operational metrics and error-rate analysis, with de
 
 ---
 
-## What I'm Working On
+## Currently
 
 Deepening my Python, data engineering, and backend skills through hands-on projects — data processing, validation, API design, numerical computing, anomaly detection, and automated testing. Every project ships with a test suite and CI, because reliable software is the point.
 
 ---
 
-## Let's Connect
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-aasif-najar-a31615146"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:najaraasif944@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/najaraasif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najaraasif&style=flat-square&color=blue" alt="Profile views">
 </p>
